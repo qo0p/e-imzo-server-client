@@ -29,7 +29,6 @@
         <connection>scm:git:git@github.com:qo0p/e-imzo-server-client.git</connection>
         <developerConnection>scm:git:git@github.com:qo0p/e-imzo-server-client.git</developerConnection>
         <url>http://github.com/qo0p/e-imzo-server-client/tree/master</url>
-        <tag>e-imzo-server-client-1.7.0</tag>
     </scm>
  
     <properties>
