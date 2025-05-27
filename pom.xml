@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.qo0p</groupId>
     <artifactId>e-imzo-server-client</artifactId>
-    <version>1.7.5-SNAPSHOT</version>
+    <version>1.7.5</version>
     <packaging>jar</packaging>
     
     <name>e-imzo-server-client</name>
@@ -29,7 +29,8 @@
         <connection>scm:git:git@github.com:qo0p/e-imzo-server-client.git</connection>
         <developerConnection>scm:git:git@github.com:qo0p/e-imzo-server-client.git</developerConnection>
         <url>http://github.com/qo0p/e-imzo-server-client/tree/master</url>
-    </scm>
+      <tag>e-imzo-server-client-1.7.5</tag>
+  </scm>
  
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
