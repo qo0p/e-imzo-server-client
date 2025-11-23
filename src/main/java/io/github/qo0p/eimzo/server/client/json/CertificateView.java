@@ -105,4 +105,18 @@ public class CertificateView {
         this.signature = signature;
     }
 
+    public Map<String, String> getSubjectInfo() {
+        return subjectInfo;
+    }
+    public void setSubjectInfo(Map<String, String> subjectInfo) {
+        this.subjectInfo = subjectInfo;
+    }
+
+    public Map<String, String> getIssuerInfo() {
+        return issuerInfo;
+    }
+
+    public void setIssuerInfo(Map<String, String> issuerInfo) {
+        this.issuerInfo = issuerInfo;
+    }
 }
